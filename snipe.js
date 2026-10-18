@@ -1,5 +1,5 @@
 // ============================================
-// Sol TRADING BOT - Complete Implementation
+// Axiom TRADING BOT - Complete Implementation
 // Jupiter V6 Integration + Multi-Wallet Support + Commission System
 // ============================================
 import { Telegraf, Markup } from 'telegraf';
